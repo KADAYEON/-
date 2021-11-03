@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<products>
+	<product>
+		<isbn>1234567890</isbn>
+		<productName>새우깡</productName>
+		<company>오리온</company>
+		<price>1200</price>
+		<amount>32</amount>
+		<isNeeded>0</isNeeded>
+		<reservation>0</reservation>
+		<at>2021년 11월1일 월요일</at>
+	</product>
+	<product>
+		<isbn>12345678901</isbn>
+		<productName>빼빼로</productName>
+		<company>오리온</company>
+		<price>1000</price>
+		<amount>21</amount>
+		<isNeeded>0</isNeeded>
+		<reservation>0</reservation>
+		<at>2021년 11월2일 화요일</at>
+	</product>
+	<product>
+		<isbn>123456789012</isbn>
+		<productName>감자깡</productName>
+		<company>오리온</company>
+		<price>890</price>
+		<amount>12</amount>
+		<isNeeded>0</isNeeded>
+		<reservation>0</reservation>
+		<at>2021년 11월3일 수요일</at>
+	</product>
+	<product>
+		<isbn>1234567890123</isbn>
+		<productName>가나초콜릿</productName>
+		<company>오리온</company>
+		<price>700</price>
+		<amount>12</amount>
+		<isNeeded>0</isNeeded>
+		<reservation>0</reservation>
+		<at>2021년 11월3일 수요일</at>
+	</product>
+</products>
